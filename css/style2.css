@@ -1,0 +1,76 @@
+html {
+	position: relative;
+}
+
+.box {
+	width: 29%;
+	margin: 0 auto;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+
+.jumbotron {
+	width: 100%;
+	padding: 1px;
+	background-color: #aaa;
+	color: #9adbf9;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.jumbotron h1 {
+	font-weight: 900;
+}
+
+.row {
+	width: 100%;
+}
+
+.data {
+	min-height: 300px;
+	padding-top: 36px;
+	border: 3px solid #aaa;
+	border-top: 0;
+}
+
+.table {
+	width: 100%;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+.wd {
+	width: 85%;
+}
+
+.bb {
+	border-bottom: 1px solid #aaa;
+}
+
+.rowsbutton {
+	width: 105%;
+	padding: 9%;
+	border-radius: 11px;
+	border: 0;
+	margin: 15px;
+	margin-right: 15px;
+	background-color: #aaa;
+}
+
+.rowsbutton:active {
+	background-color: #9adbf9;
+}
+
+footer {
+	position: relative;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	top: 79px;
+	background-color: #333;
+}
+
+footer p {
+	color: #aaa;
+}
